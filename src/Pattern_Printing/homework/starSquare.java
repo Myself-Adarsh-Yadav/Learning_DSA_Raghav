@@ -1,6 +1,5 @@
 package Pattern_Printing.homework;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class starSquare {
