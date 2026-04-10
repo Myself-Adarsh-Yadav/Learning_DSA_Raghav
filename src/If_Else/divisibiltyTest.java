@@ -14,7 +14,7 @@ public class divisibiltyTest {
         }else if (num % 3 == 0) {
             System.out.println("Divisible by Three");
         }else {
-
+            System.out.println("Not divisible by Five or Three.");
         }
     }
 }
